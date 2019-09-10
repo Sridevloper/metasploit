@@ -2,7 +2,7 @@
 Install metasploit with out error
 
 
-create payload : https://youtu.be/A7bnpPQ1m3U
+create payload & exploit : https://youtu.be/aEi1adQNhqU
 
 instagram : Sridevloper
 
